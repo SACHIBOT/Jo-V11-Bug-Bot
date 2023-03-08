@@ -13,7 +13,7 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapis.xyz': 'Your Key',
+	'https://zenzapis.xyz': 'b27fa23114',
 }
 
 
@@ -22,8 +22,8 @@ global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['60177426853','60177426853','60177426853']
-global.premium = ['60177426853']
+global.owner = ['94725881990','94704329606','94761717506']
+global.premium = ['94725881990']
 global.packname = 'The Jo Bot'
 global.author = 'WhatsApp Bot'
 global.wlcm = []
